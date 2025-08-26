@@ -8,5 +8,8 @@ namespace Clases
 {
     public class Administrador : Usuario
     {
+        public Administrador(string nombre, int id) : base (nombre, id, "Administrador")
+        {
+        }
     }
 }
