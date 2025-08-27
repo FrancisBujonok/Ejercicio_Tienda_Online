@@ -1,0 +1,6 @@
+C:\Users\Fran\Documents\GitHub\Ejercicio_Tienda_Online\tienda_online\Clases\bin\Debug\Clases.dll
+C:\Users\Fran\Documents\GitHub\Ejercicio_Tienda_Online\tienda_online\Clases\bin\Debug\Clases.pdb
+C:\Users\Fran\Documents\GitHub\Ejercicio_Tienda_Online\tienda_online\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\GitHub\Ejercicio_Tienda_Online\tienda_online\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\GitHub\Ejercicio_Tienda_Online\tienda_online\Clases\obj\Debug\Clases.dll
+C:\Users\Fran\Documents\GitHub\Ejercicio_Tienda_Online\tienda_online\Clases\obj\Debug\Clases.pdb

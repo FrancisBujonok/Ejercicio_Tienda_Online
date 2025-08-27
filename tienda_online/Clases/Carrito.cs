@@ -17,7 +17,27 @@ namespace Clases
 
         public void AgregarProducto(Producto producto, int cantidad)
         {
-            // Lógica para agregar al carrito
+            if (producto.Stock >= cantidad)
+            {
+                for (int i = 0; i < cantidad; i++)
+                {
+                    this.Productos.Add(producto);
+                }
+                producto.Stock -= cantidad; // con esto reduzco el stock
+            }
+            else
+            {
+                Console.WriteLine("Stock insuficiente");
+            }
+        }
+        public decimal CalcularTotal()
+        {
+            decimal total = 0;
+            foreach (var producto in Productos)
+            {
+                total += producto.Precio;
+            }
+            return total;
         }
     }
 }

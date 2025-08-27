@@ -1,0 +1,2 @@
+C:\Users\Fran\Documents\GitHub\Ejercicio_Tienda_Online\tienda_online\tienda_online\obj\Debug\tienda_online.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\GitHub\Ejercicio_Tienda_Online\tienda_online\tienda_online\obj\Debug\tienda_online.csproj.CoreCompileInputs.cache

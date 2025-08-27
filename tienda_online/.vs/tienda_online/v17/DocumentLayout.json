@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|c:\\users\\fran\\documents\\github\\ejercicio_tienda_online\\tienda_online\\clases\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\clases\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\clases\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|c:\\users\\fran\\documents\\github\\ejercicio_tienda_online\\tienda_online\\clases\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2BE6D70-DC57-44DC-AE5F-75EB648A1EE2}|tienda_online\\tienda_online.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\tienda_online\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2BE6D70-DC57-44DC-AE5F-75EB648A1EE2}|tienda_online\\tienda_online.csproj|solutionrelative:tienda_online\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\clases\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\clases\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5156101-84A6-4A9B-AF38-4CBB7C49E7F5}|Clases\\Clases.csproj|solutionrelative:clases\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,71 +42,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\tienda_online\\Program.cs",
               "RelativeDocumentMoniker": "tienda_online\\Program.cs",
               "ToolTip": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\tienda_online\\Program.cs",
               "RelativeToolTip": "tienda_online\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAlwDMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T15:06:19.107Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Carrito.cs",
+              "RelativeDocumentMoniker": "Clases\\Carrito.cs",
+              "ToolTip": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Carrito.cs",
+              "RelativeToolTip": "Clases\\Carrito.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:21:13.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Tienda.cs",
               "DocumentMoniker": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Tienda.cs",
               "RelativeDocumentMoniker": "Clases\\Tienda.cs",
               "ToolTip": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Tienda.cs",
               "RelativeToolTip": "Clases\\Tienda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T16:36:56.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Producto.cs",
               "RelativeDocumentMoniker": "Clases\\Producto.cs",
               "ToolTip": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Producto.cs",
               "RelativeToolTip": "Clases\\Producto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T16:34:20.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Factura.cs",
-              "DocumentMoniker": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Factura.cs",
-              "RelativeDocumentMoniker": "Clases\\Factura.cs",
-              "ToolTip": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Factura.cs",
-              "RelativeToolTip": "Clases\\Factura.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA4AAAArAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Pedido.cs",
+              "RelativeDocumentMoniker": "Clases\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Pedido.cs",
+              "RelativeToolTip": "Clases\\Pedido.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBIAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T15:21:31.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Carrito.cs",
-              "DocumentMoniker": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Carrito.cs",
-              "RelativeDocumentMoniker": "Clases\\Carrito.cs",
-              "ToolTip": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Carrito.cs",
-              "RelativeToolTip": "Clases\\Carrito.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:21:13.012Z",
               "EditorCaption": ""
             },
             {
@@ -117,33 +118,33 @@
               "RelativeDocumentMoniker": "Clases\\Administrador.cs",
               "ToolTip": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Administrador.cs",
               "RelativeToolTip": "Clases\\Administrador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T15:10:24.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Cliente.cs",
               "RelativeDocumentMoniker": "Clases\\Cliente.cs",
               "ToolTip": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Cliente.cs",
               "RelativeToolTip": "Clases\\Cliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T15:10:09.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Usuario.cs",
               "RelativeDocumentMoniker": "Clases\\Usuario.cs",
               "ToolTip": "C:\\Users\\Fran\\Documents\\GitHub\\Ejercicio_Tienda_Online\\tienda_online\\Clases\\Usuario.cs",
               "RelativeToolTip": "Clases\\Usuario.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T15:07:54.302Z",
               "EditorCaption": ""

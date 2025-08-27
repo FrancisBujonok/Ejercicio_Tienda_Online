@@ -8,11 +8,14 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    public class Factura
+    public class Pedido
     {
         //la clase será de pedido/factura
-        public int Num_Factura { get ; set; }
+        public int NumeroPedido { get; set; }
         public DateTime Fecha { get; set; }
-
+        public Cliente Cliente { get; set; }
+        public List<Producto> Productos { get; set; }
+        public string DireccionEnvio { get; set; }
+        public string Estado { get; set; } // "pendiente", "enviado", "entregado"
     }
 }

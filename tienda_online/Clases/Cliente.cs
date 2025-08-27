@@ -13,5 +13,9 @@ namespace Clases
         {
             Carrito = new Carrito();
         }
+        public override void MostrarInfo()
+        {
+            Console.WriteLine($"CLIENTE: {Nombre} (ID: {Id})");
+        }
     }
 }

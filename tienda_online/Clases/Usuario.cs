@@ -18,5 +18,9 @@ namespace Clases
             this.Id = id;
             this.Tipo = tipo;
         }
+        public virtual void MostrarInfo() // virtual permite override
+        {
+            Console.WriteLine($"ID: {Id} | {Nombre} - Tipo: {Tipo}");
+        }
     }
 }
